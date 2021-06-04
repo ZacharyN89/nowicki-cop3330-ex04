@@ -23,7 +23,10 @@ Challenges
     Implement a branching story, where the answers to questions determine how the story is constructed.
 
 */
-
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 first_name last_name
+ */
 import java.util.Scanner;
 
 public class ex04 {
